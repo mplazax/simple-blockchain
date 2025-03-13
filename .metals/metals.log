@@ -1,0 +1,103 @@
+2024.06.12 21:40:50 INFO  Started: Metals version 1.3.1 in folders '/Users/franciszekjob/studia/s4/scala/scala-pow-blockchain' for client Visual Studio Code 1.86.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@148501dc]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@5627db67]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@148501dc]
+2024.06.12 21:40:50 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.12 21:40:51 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+cze 12, 2024 9:40:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+cze 12, 2024 9:40:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+cze 12, 2024 9:40:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.06.12 21:41:35 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:37 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:37 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:37 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:42 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:44 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/controllers/TransactionController.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:44 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:44 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:44 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:45 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:45 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:46 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala
+2024.06.12 21:41:46 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:46 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:49 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:49 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+cze 12, 2024 9:41:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.12 21:41:57 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:58 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:59 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:41:59 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:00 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:00 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:02 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:03 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:03 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:03 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:03 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:03 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:07 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:08 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:08 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:09 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:09 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:10 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:19 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:19 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala
+2024.06.12 21:42:19 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:24 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:25 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:26 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:28 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 21:42:28 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala
+2024.06.12 21:42:28 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.12 22:04:12 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 00:23:19 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 00:40:48 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 00:40:48 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt
+2024.06.13 00:40:52 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt
+2024.06.13 00:40:52 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 00:41:27 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt
+2024.06.13 00:41:27 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/project/plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:03:14 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:15:10 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:16:04 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:24:01 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:24:48 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:25:10 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:27:14 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:27:28 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:27:40 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:29:57 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:30:28 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:30:41 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:30:47 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:35:36 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:45:39 WARN  no build target for: /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/build.sbt
+2024.06.13 02:45:39 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.13 02:59:25 INFO  no build target found for /Users/franciszekjob/studia/s4/scala/scala-pow-blockchain/app/blockchain/models/Blockchain.scala. Using presentation compiler with project's scala-library version: 3.3.3
